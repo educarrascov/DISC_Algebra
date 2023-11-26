@@ -13,9 +13,9 @@ Facultad de Ingeniería y Ciencias, UAI.
 
 ## I. Tareas:
 1. [Trabajo Práctico N° 1 - Álgebra - Código](https://github.com/educarrascov/DISC_Algebra/blob/main/Trabajo%201.ipynb)
-2. [Trabajo Práctico N° 1 - Álgebra - Informe](https://github.com/educarrascov/DISC_Algebra/blob/main/Trabajo%201%20-%20ecarrascov.pdf)
+2. [Trabajo Práctico N° 1 - Álgebra - Informe (pdf)](https://github.com/educarrascov/DISC_Algebra/blob/main/Trabajo%201%20-%20ecarrascov.pdf)
 3. [Trabajo Práctico N° 2 - Álgebra - Código](https://github.com/educarrascov/DISC_Algebra/blob/main/Trabajo%202.ipynb)
-4. [Trabajo Práctico N° 2 - Álgebra - Código]()
+4. [Trabajo Práctico N° 2 - Álgebra - Informe (pdf)]()
 
 ## II. Adicionales:
 
