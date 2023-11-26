@@ -12,14 +12,14 @@ Facultad de Ingeniería y Ciencias, UAI.
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
 
 ## I. Tareas:
-1. [Trabajo Práctico N° 1 - Álgebra - Código](https://github.com/educarrascov/DISC_Algebra/blob/main/Trabajo%201.ipynb)
-2. [Trabajo Práctico N° 1 - Álgebra - Informe (pdf)](https://github.com/educarrascov/DISC_Algebra/blob/main/Trabajo%201%20-%20ecarrascov.pdf)
-3. [Trabajo Práctico N° 2 - Álgebra - Código](https://github.com/educarrascov/DISC_Algebra/blob/main/Trabajo%202.ipynb)
-4. [Trabajo Práctico N° 2 - Álgebra - Informe (pdf)]()
+1. [Trabajo Práctico N° 1 - Álgebra - Código.](https://github.com/educarrascov/DISC_Algebra/blob/main/Trabajo%201.ipynb)
+2. [Trabajo Práctico N° 1 - Álgebra - Informe (pdf).](https://github.com/educarrascov/DISC_Algebra/blob/main/Trabajo%201%20-%20ecarrascov.pdf)
+3. [Trabajo Práctico N° 2 - Álgebra - Código.](https://github.com/educarrascov/DISC_Algebra/blob/main/Trabajo%202.ipynb)
+4. [Trabajo Práctico N° 2 - Álgebra - Informe (pdf).]()
 
 ## II. Adicionales:
 
-1. [Ejemplo funciones benchmark de optimización más comunes](https://github.com/educarrascov/DISC_Algebra/blob/main/Respaldo%20Fun%20Optimizacion.ipynb)
+1. [Ejemplo funciones benchmark de optimización más comunes.](https://github.com/educarrascov/DISC_Algebra/blob/main/Respaldo%20Fun%20Optimizacion.ipynb)
    - Ackley function.
    - Rastringin function.
    - Beale function.
