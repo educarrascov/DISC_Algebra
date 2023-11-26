@@ -12,11 +12,11 @@ Facultad de Ingeniería y Ciencias, UAI.
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
 
 ## I. Tareas:
-1. [Trabajo 1 - Álgebra - Código](https://github.com/educarrascov/DISC_Algebra/blob/main/Trabajo%201.ipynb)
-2. [Trabajo 1 - Álgebra - Informe](https://github.com/educarrascov/DISC_Algebra/blob/main/Trabajo%201%20-%20ecarrascov.pdf)
-3. [Trabajo 2 - Álgebra - Código](https://github.com/educarrascov/DISC_Algebra/blob/main/Trabajo%202.ipynb)
-4. [Trabajo 2 - Álgebra - Código]()
+1. [Trabajo Práctico N° 1 - Álgebra - Código](https://github.com/educarrascov/DISC_Algebra/blob/main/Trabajo%201.ipynb)
+2. [Trabajo Práctico N° 1 - Álgebra - Informe](https://github.com/educarrascov/DISC_Algebra/blob/main/Trabajo%201%20-%20ecarrascov.pdf)
+3. [Trabajo Práctico N° 2 - Álgebra - Código](https://github.com/educarrascov/DISC_Algebra/blob/main/Trabajo%202.ipynb)
+4. [Trabajo Práctico N° 2 - Álgebra - Código]()
 
 ## II. Adicionales:
 
-1. [Ejemplo Funciones de optimización más comunes](https://github.com/educarrascov/DISC_Algebra/blob/main/Respaldo%20Fun%20Optimizacion.ipynb)
+1. [Ejemplo funciones de optimización más comunes](https://github.com/educarrascov/DISC_Algebra/blob/main/Respaldo%20Fun%20Optimizacion.ipynb)
